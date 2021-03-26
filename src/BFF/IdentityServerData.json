@@ -1,0 +1,25 @@
+{
+  "IdentityServerData": {
+    "Roles": [
+      {
+        "Name": "SuperAdministrator"
+      }
+    ],
+    "Users": [
+      {
+        "Username": "admin",
+        "Password": "Pa$$word123",
+        "Email": "admin@katsuretsu.com",
+        "Roles": [
+          "SuperAdministrator"
+        ],
+        "Claims": [
+          {
+            "Type": "name",
+            "Value": "admin"
+          }
+        ]
+      }
+    ]
+  }
+}
